@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: []([https://your-solution-url.com](https://github.com/yoyford/Product-preview-card-component))
-- Live Site URL: [live](https://your-live-site-url.com)
+- Live Site URL: [live]([https://your-live-site-url.com](https://yoyford.github.io/Product-preview-card-component/))
 
 
 ### Built with
