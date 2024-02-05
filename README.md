@@ -28,7 +28,7 @@ Users should be able to:
 ![](./2.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/yoyford/Product-preview-card-component](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
